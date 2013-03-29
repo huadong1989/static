@@ -1,5 +1,6 @@
 define(function(require,exports){
     var $ = require('jquery');
+    var modelsComm = require('../../comm/model_comm');
 
     /*首页初始化*/
     exports.init = function(){
